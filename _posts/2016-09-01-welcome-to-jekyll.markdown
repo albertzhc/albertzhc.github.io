@@ -4,6 +4,21 @@ title:  "Welcome to Jekyll!"
 date:   2016-09-01 03:21:29 -0400
 categories: jekyll update
 ---
+I am learning to use this tool to write a unique blog.
+
+It is not that easy to use. but seems like a powerful tool. I can use it to build my page what ever I like.
+
+Two skill is required:
+1. Website building techniques;
+2. Markdown writting skill.
+
+The website building techniques make it possible to manage the style of my page. While, the markdown writting skill make it quicker to write articles. At last, we don't have that much time to waste. Efficiency is everything.
+
+第一篇文章，除了宣告`我来啦`之外，就是测试功能及用法。现在进行的就是中文测试。
+
+
+
+<!--
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
@@ -23,3 +38,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+-->
