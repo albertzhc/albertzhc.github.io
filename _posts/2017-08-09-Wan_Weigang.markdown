@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "自律是解决目前问题的唯一途径"
+title:  "万维钢专栏总结"
 date:   2017-08-09
 categories: Reading notes
 ---
