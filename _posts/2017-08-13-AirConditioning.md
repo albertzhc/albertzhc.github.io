@@ -177,13 +177,13 @@ The process of mixing air streams under adiabatic condithions and steady flow.
 
 This process contains both sensible and latent heating component.
 
-<img src='/images/totalHeatProcess.png'>
+<img src='/images/totalHeatProcess.PNG'>
 
 **SHF**: Sensible Heat Factor
 
-<img src='/images/SHF.png'>
+<img src='/images/SHF.PNG'>
 
-<img src='/images/SHF1.png'>
+<img src='/images/SHF1.PNG'>
 
 The room load line is commonly get by using the SHF scale provided.
 
@@ -193,7 +193,7 @@ The room load line is commonly get by using the SHF scale provided.
 
 ## Process in the coil
 
-<img src='/images/coolingCoil.png'>
+<img src='/images/coolingCoil.PNG'>
 
 ## Apparatus Dew Point
 
@@ -201,7 +201,7 @@ The room load line is commonly get by using the SHF scale provided.
 
 Not all the air passing through the coil is cooled to the apparatus dew point temperature. So the outlet air condition is between the inlet point and ADP point.
 
-<img src='/images/coilContactFactor.png'>
+<img src='/images/coilContactFactor.PNG'>
 
 ---
 ---
@@ -250,7 +250,7 @@ Ideal refregerant
 
 ### expansion process
 
-<img src='/images/theoreticalCycle.png'>
+<img src='/images/theoreticalCycle.PNG'>
 
 
 
