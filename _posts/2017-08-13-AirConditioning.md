@@ -29,7 +29,7 @@ Industrilal process, 0℃ ~ -100℃
 	- LNG
 
 ---
-## Psychrometry 空气线图，焓湿图
+# Psychrometry 空气线图，焓湿图
 Psychrometry is the study of a mixture of air and fluid vapour. usually atmospheric. So, air is treated as a binary mixture.
 
 - dry air
@@ -41,7 +41,7 @@ Assumptions:
 - The gaseous phases can be treated as a mixture of ideal gases.
 - There is no interaction between the components and all components are at the mixture temperature.
 
-## Psychrometric Properties
+### Psychrometric Properties
 
 - V: volume of moist air
 - p: pressure, taken as barometric usually, 101.325kPa
@@ -49,7 +49,7 @@ Assumptions:
 - ma: mass of dry air
 - mv: mass of water vapour
 
-## Gibbs phase rule
+### Gibbs phase rule
 
 How many components needs to define the systme:
 
@@ -61,7 +61,7 @@ How many components needs to define the systme:
 
 > p = number of phases
 
-## Moisture Content
+### Moisture Content
 
 Also called: humidity ratio/ specific humidity/ absolute humidity:
 
@@ -73,7 +73,7 @@ The ratio of the mass of water vapour to the mass of dry air in a given volume o
 
 mass fraction: g = w/(1+w)
 
-## Dew Point Temperature
+### Dew Point Temperature
 
 saturation temperature at constant pressure. 饱和温度
 
@@ -81,7 +81,7 @@ saturation temperature at constant pressure. 饱和温度
 
 According to [steam table](/resources/SteamTables.pdf), the partial pressure of water vapour under a certain temperature could be found.
 
-## Percentage Saturation 饱和度
+### Percentage Saturation 饱和度
 Degree of saturation, percetage humidity, μ
 
 ‘the ratio of the mass of water actually held per kilogram of dry air to the mass of saturated water vapour per kilogram of dry air at the same mixture temperature and pressure’.
@@ -90,7 +90,7 @@ Degree of saturation, percetage humidity, μ
 
 <img src='/images/percentageSaturation2.png'>
 
-## Relative Humidity
+### Relative Humidity
 
 RH, φ，
 
@@ -101,7 +101,7 @@ to the density of saturated water vapour at the same temperature’.
 
 <img src='/images/relativeHumidity2.png'>
 
-## Specific Enthalpy
+### Specific Enthalpy
 
 We are interested in the enthalpy per kilogram of dry air.
 
@@ -115,7 +115,7 @@ We are interested in the enthalpy per kilogram of dry air.
 
 <img src='/images/specificEnthalpy4.png'>
 
-## Specific Volume
+### Specific Volume
 
 v: ‘the number of cubic metres of mixture per kilogram of dry air’.
 
@@ -123,7 +123,7 @@ v: ‘the number of cubic metres of mixture per kilogram of dry air’.
 
 <img src='/images/specificVolume1.png'>
 
-## Wet Bulb Temperature
+### Wet Bulb Temperature
 
 Moist air is put through an adiabatic chamber, where heat is only transferred between spray water and air, the outlet air is saturated and the temperature is wet bulb temperature
 
@@ -175,12 +175,82 @@ The process of mixing air streams under adiabatic condithions and steady flow.
 
 ## Total Heating
 
+This process contains both sensible and latent heating component.
+
+<img src='/images/totalHeatProcess.png'>
+
+**SHF**: Sensible Heat Factor
+
+<img src='/images/SHF.png'>
+
+<img src='/images/SHF1.png'>
+
+The room load line is commonly get by using the SHF scale provided.
+
+---
+---
+# Cooling Coil
+
+## Process in the coil
+
+<img src='/images/coolingCoil.png'>
+
+## Apparatus Dew Point
+
+## Coil contact factor and By-pass factor
+
+Not all the air passing through the coil is cooled to the apparatus dew point temperature. So the outlet air condition is between the inlet point and ADP point.
+
+<img src='/images/coilContactFactor.png'>
+
+---
+---
+# Application
 
 
 
 
 
 
+
+
+
+---
+---
+# Refrigerants
+
+Absorb heat while undergoing phase change.
+
+Ideal refregerant
+- Moderately low condensing pressure
+- Positive evaporating pressure
+- Relatively high critical temperature
+- Low freezing point
+- High latent heat of evaporation
+- Non falamable
+- Non toxic
+- Action of refregerant with water
+- Action of refregerant with oil
+- non-corrosive
+- High dielectric strength
+- High thermal conductivity
+- Low viscosity
+- Easily leak detection
+- Cost
+
+---
+---
+# Vapour Compression Refrigeration
+
+## 1. The ideal cycle
+
+## 2. Theoretical or standard vapour compression cycle
+
+### work of compression
+
+### expansion process
+
+<img src='/images/theoreticalCycle.png'>
 
 
 
@@ -206,7 +276,6 @@ The process of mixing air streams under adiabatic condithions and steady flow.
 ---
 ---
 
-# DA09
 
 
 
