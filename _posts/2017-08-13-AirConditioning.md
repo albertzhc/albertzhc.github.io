@@ -45,9 +45,15 @@ Assumptions:
 
 - V: volume of moist air
 - p: pressure, taken as barometric usually, 101.325kPa
-- T: temperature
+- T: dry bulb temperature
 - ma: mass of dry air
 - mv: mass of water vapour
+- TDP: dew point temperture
+- TWB: wet bulb temperature
+- v: specific volume
+- h: specific enthalpy
+- percentage saturation
+- relative humidity
 
 ### Gibbs phase rule
 
