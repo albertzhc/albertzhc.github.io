@@ -19,3 +19,5 @@ github_username:  albertzhc
 markdown: kramdown
 
 theme: jekyll-theme-merlot
+plugins:
+ - jekyll-seo-tag
