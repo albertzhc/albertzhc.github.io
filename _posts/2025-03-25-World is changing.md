@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "只是另外的一天"
+title:  "关于这个变化的世界"
 date:   2025-3-25
 categories: Blog
 ---
